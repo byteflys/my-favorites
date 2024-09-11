@@ -1,5 +1,25 @@
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> []()
 
+# 精品书籍
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《Android群英传》 电子工业出版社 徐宜生]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《Android群英传：神兵利器》 电子工业出版社 徐宜生]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《Kotlin核心编程》 机械工业出版社 水滴技术团队]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《深入理解Kotlin协程》 机械工业出版社 霍丙乾]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《深入实践Kotlin元编程》 机械工业出版社 霍丙乾]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《CSS揭秘》 人民邮电出版社 LEA VEROU]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《JavaScript入门经典（第7版）》 人民邮电出版社 Phil Ballard]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《JavaScript忍者秘籍》 人民邮电出版社 莱西格/贝比奥特/马瑞斯]()
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [《设计模式之禅》 机械工业出版社 秦小波]()
+
 # Android
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [View的测量布局绘制过程](https://juejin.cn/post/6984417565279797262)
