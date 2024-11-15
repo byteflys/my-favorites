@@ -40,6 +40,10 @@
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [Coroutines官方API文档](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/)
 
+# Compose
+
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [WindowManager添加ComposeView](https://www.cnblogs.com/joy99/p/17927135.html)
+
 # Git
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [Git官方文档，强烈推荐！](https://git-scm.com/docs)
