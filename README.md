@@ -52,6 +52,8 @@
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [Git Interactive Rebase](https://www.gss.com.tw/blog/%E4%BD%BF%E7%94%A8-git-rebase-interactive-%E6%A8%A1%E5%BC%8F%E6%95%B4%E7%90%86-commit)
 
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [Compose Inspector](https://keeplooking.top/2023/08/12/Android/compose_inspector/)
+
 # 音视频
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [基于WebRTC的大型分布式实时音视频系统项目实战](https://edu.51cto.com/topic/5976.html)
