@@ -46,6 +46,8 @@
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [BoxWithConstraints](https://proandroiddev.com/responsive-layouts-using-boxwithconstraints-in-jetpack-compose-7be64444812f)
 
+<img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [How to Choose Compose Animations](https://proandroiddev.com/responsive-layouts-using-boxwithconstraints-in-jetpack-compose-7be64444812f)
+
 # Git
 
 <img src="https://github.com/byteflys/my-favorites/assets/168255750/c6d5bc36-931d-4545-a75a-8d15f7e9ee52" width="22" height="22"/> [Git官方文档，强烈推荐！](https://git-scm.com/docs)
